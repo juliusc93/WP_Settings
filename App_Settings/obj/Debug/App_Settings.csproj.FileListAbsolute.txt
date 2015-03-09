@@ -1,0 +1,13 @@
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\Bin\Debug\ApplicationIcon.png
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\Bin\Debug\Background.png
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\Bin\Debug\App_Settings.dll
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\Bin\Debug\App_Settings.pdb
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\Bin\Debug\AppManifest.xaml
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\Bin\Debug\App_Settings.xap
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\App.g.i.cs
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\MainPage.g.i.cs
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\App_Settings.g.resources
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\App_Settings.dll
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\App_Settings.pdb
+c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\XapCacheFile.xml
+C:\Users\JULIO\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\EditPage.g.i.cs
