@@ -11,3 +11,16 @@ c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\o
 c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\App_Settings.pdb
 c:\users\julio\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\XapCacheFile.xml
 C:\Users\JULIO\documents\visual studio 2010\Projects\App_Settings\App_Settings\obj\Debug\EditPage.g.i.cs
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\Bin\Debug\ApplicationIcon.png
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\Bin\Debug\Background.png
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\Bin\Debug\App_Settings.dll
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\Bin\Debug\App_Settings.pdb
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\Bin\Debug\AppManifest.xaml
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\Bin\Debug\App_Settings.xap
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\obj\Debug\App.g.i.cs
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\obj\Debug\EditPage.g.i.cs
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\obj\Debug\MainPage.g.i.cs
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\obj\Debug\App_Settings.g.resources
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\obj\Debug\App_Settings.dll
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\obj\Debug\App_Settings.pdb
+C:\Users\JULIO\Documents\GitHub\WP_Settings\App_Settings\obj\Debug\XapCacheFile.xml
